@@ -15,7 +15,7 @@ My credentials include an MBA in Data Science and Analytics from the University 
 * [LinkedIn](https://www.linkedin.com/in/roniquer-camilo-04a63a237/)
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+Veja os tutoriais publicados de DSA:
 
 * **Clusterização e Forcasting de Conjuntos Elétricos:** 
 
