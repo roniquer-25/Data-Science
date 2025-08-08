@@ -9,7 +9,7 @@ My credentials include an MBA in Data Science and Analytics from the University 
 
 **Links:**
 * [Blog](https://sigmoidal.ai)
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
+* [LinkedIn](https://www.linkedin.com/in/roniquer-camilo-04a63a237/)
 * [Medium](https://www.medium.com)
 
 
