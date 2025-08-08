@@ -1,7 +1,11 @@
-<p align="center">
-  <img src="image.PNG" alt="Portfólio">
-</p>
+![author](https://img.shields.io/badge/author-Roniquer%20Camilo-blue)
+![python](https://img.shields.io/badge/python-3.7%2B-yellow)
+![license](https://img.shields.io/badge/license-GPLv3-green)
+![contributions](https://img.shields.io/badge/contributions-welcome-brightgreen)
 
+<p align="center">
+  <img src="portifolio.PNG" alt="Portfólio">
+</p>
 
 # Roniquer Camilo
 <sub>*Data Scientist* and Electrical Engineer </sub>
