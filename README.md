@@ -2,6 +2,7 @@
   <img src="portifolio.PNG" alt="Portfólio">
 </p>
 
+
 # Roniquer Camilo
 <sub>*Data Scientist* and Electrical Engineer </sub>
 
