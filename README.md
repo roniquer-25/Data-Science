@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="portifolio.png" >
+  <img src="portifolio.PNG" alt="Portfólio" width="500">
 </p>
 
 # Roniquer Camilo
