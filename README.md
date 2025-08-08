@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="portifolio.PNG" alt="Portfólio">
+  <img src="image.PNG" alt="Portfólio">
 </p>
 
 
